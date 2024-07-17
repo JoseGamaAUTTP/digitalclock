@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000080;
+    font-family: 'Arial', sans-serif;
+}
+
+#clock {
+    text-align: center;
+    color: #ffffff;
+}
+
+#season, #date, #day, #time {
+    font-size: 2em;
+    margin: 10px 0;
+}
